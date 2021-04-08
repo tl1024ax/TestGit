@@ -28,7 +28,9 @@ git push -u origin main
 链接：https://www.jianshu.com/p/920ad324fe64https://www.jianshu.com/p/920ad324fe64
 ------
 git stash
+
 git pull
+
 git stash pop
 
 命令介绍
