@@ -25,7 +25,7 @@ git push -u origin main
 ---------------------------
 解决冲突
 ------
-链接:https://www.jianshu.com/p/920ad324fe64https://www.jianshu.com/p/920ad324fe64
+https://www.jianshu.com/p/920ad324fe64https://www.jianshu.com/p/920ad324fe64
 ------
 git stash
 
